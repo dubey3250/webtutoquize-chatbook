@@ -1,0 +1,50 @@
+#menu
+{
+height:70px;
+width:800px;
+border-radius:10px;
+margin-left:40px;
+}
+#menu ul
+{
+list-style-type:none;
+}
+#menu ul li a
+{
+text-decoration:none;
+}
+#menu ul li
+{
+display:inline-block;
+width:150px;
+padding:20px;
+margin:10px;
+border-radius:0px 10px 0px 10px;
+background-color:black;
+}
+
+#menu2
+{
+height:70px;
+width:1000px;
+border-radius:10px;
+margin-left:40px;
+}
+#menu2 ul
+{
+list-style-type:none;
+}
+#menu2 ul li a
+{
+text-decoration:none;
+}
+#menu2 ul li
+{
+display:inline-block;
+width:200px;
+height:45px;
+padding:20px;
+margin:10px;
+border-radius:10px 0px 10px 0px;
+background-color:blue;
+}

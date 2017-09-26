@@ -1,0 +1,20 @@
+
+#menu
+{
+height:50px;
+width:600px;
+border-radius:10px;
+margin-left:40px;
+}
+#menu ul
+{
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline-block;
+width:100px;
+padding:15px;
+margin:3px;
+border-radius:10px;
+}
